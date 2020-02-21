@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "239ab82185841721a2c23da39f153580",
+    "revision": "e05bccaa23b18c1a91d100e369de6179",
     "url": "/shubham-chaudhary/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shubham-chaudhary/static/css/2.60a6b8e0.chunk.css"
   },
   {
-    "revision": "4ffad6d9ff71de11fede",
-    "url": "/shubham-chaudhary/static/css/main.52dcaa2c.chunk.css"
+    "revision": "7d0d42ca2cfc5f976343",
+    "url": "/shubham-chaudhary/static/css/main.d84f4463.chunk.css"
   },
   {
     "revision": "fc09d77eeb004a949cae",
     "url": "/shubham-chaudhary/static/js/2.7e71dacf.chunk.js"
   },
   {
-    "revision": "4ffad6d9ff71de11fede",
-    "url": "/shubham-chaudhary/static/js/main.d622bd40.chunk.js"
+    "revision": "7d0d42ca2cfc5f976343",
+    "url": "/shubham-chaudhary/static/js/main.56ca8d02.chunk.js"
   },
   {
     "revision": "58dd22b0b7e4bbe07f9f",
