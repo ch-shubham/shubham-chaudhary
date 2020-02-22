@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import {Tabs,Tab , Grid ,Cell , Card , CardTitle , CardActions ,Button , CardMenu, IconButton,CardText } from 'react-mdl';
+import { Grid ,Cell , Card , CardTitle , CardActions ,Button , CardMenu, IconButton,CardText } from 'react-mdl';
 
 class Projects extends Component{ 
     render(){

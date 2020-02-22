@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/shubham-chaudhary/static/css/main.bbf4180b.chunk.css",
-    "main.js": "/shubham-chaudhary/static/js/main.d622bd40.chunk.js",
-    "main.js.map": "/shubham-chaudhary/static/js/main.d622bd40.chunk.js.map",
+    "main.css": "/shubham-chaudhary/static/css/main.d84f4463.chunk.css",
+    "main.js": "/shubham-chaudhary/static/js/main.56ca8d02.chunk.js",
+    "main.js.map": "/shubham-chaudhary/static/js/main.56ca8d02.chunk.js.map",
     "runtime~main.js": "/shubham-chaudhary/static/js/runtime~main.31321d19.js",
     "runtime~main.js.map": "/shubham-chaudhary/static/js/runtime~main.31321d19.js.map",
     "static/css/2.60a6b8e0.chunk.css": "/shubham-chaudhary/static/css/2.60a6b8e0.chunk.css",
     "static/js/2.7e71dacf.chunk.js": "/shubham-chaudhary/static/js/2.7e71dacf.chunk.js",
     "static/js/2.7e71dacf.chunk.js.map": "/shubham-chaudhary/static/js/2.7e71dacf.chunk.js.map",
     "index.html": "/shubham-chaudhary/index.html",
-    "precache-manifest.c87e0babdf32a78a5ccacc6b49de7036.js": "/shubham-chaudhary/precache-manifest.c87e0babdf32a78a5ccacc6b49de7036.js",
+    "precache-manifest.111ac2f2f00530a2bdb4ed190da08381.js": "/shubham-chaudhary/precache-manifest.111ac2f2f00530a2bdb4ed190da08381.js",
     "service-worker.js": "/shubham-chaudhary/service-worker.js",
     "static/css/2.60a6b8e0.chunk.css.map": "/shubham-chaudhary/static/css/2.60a6b8e0.chunk.css.map",
-    "static/css/main.bbf4180b.chunk.css.map": "/shubham-chaudhary/static/css/main.bbf4180b.chunk.css.map",
+    "static/css/main.d84f4463.chunk.css.map": "/shubham-chaudhary/static/css/main.d84f4463.chunk.css.map",
     "static/media/image1.JPG": "/shubham-chaudhary/static/media/image1.e0fcd942.JPG",
     "static/media/image2.JPG": "/shubham-chaudhary/static/media/image2.2ea534c8.JPG"
   }
